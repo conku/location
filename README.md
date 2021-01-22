@@ -8,7 +8,7 @@ To use Location with [QOR Admin](http://github.com/conku/admin), simply embed `l
 
 ```go
 import (
-  "github.com/jinzhu/gorm"
+  "github.com/conku/gorm"
   "github.com/conku/location"
 )
 
@@ -39,4 +39,4 @@ Now, you can call `Store.Address` or `Store.Country` etc. to get the address of 
 
 # License
 
-Released under the [MIT License](https://github.com/jinzhu/gorm/blob/master/License).
+Released under the [MIT License](https://github.com/conku/gorm/blob/master/License).
